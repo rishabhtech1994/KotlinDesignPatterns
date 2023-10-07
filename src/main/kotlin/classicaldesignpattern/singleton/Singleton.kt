@@ -1,4 +1,4 @@
-package classicaldesignpattern
+package classicaldesignpattern.singleton
 
 object Singleton{
     init {
