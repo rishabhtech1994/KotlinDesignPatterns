@@ -1,4 +1,4 @@
-package classicaldesignpattern.creationaldesignpattern
+package classicaldesignpattern
 
 object Singleton{
     init {
@@ -12,7 +12,7 @@ object Singleton{
 
 fun main() {
     println("Singleton ${Singleton.name}")
-    println("add called ${Singleton.add(5,10)}")
-    println("add called ${Singleton.add(30,50)}")
+    println("add called ${Singleton.add(5, 10)}")
+    println("add called ${Singleton.add(30, 50)}")
 
 }
