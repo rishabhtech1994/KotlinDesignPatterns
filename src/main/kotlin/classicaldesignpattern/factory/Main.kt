@@ -5,5 +5,4 @@ fun main() {
     parseFile.createFileParserForFactory("abcd.json")
     parseFile.createFileParserForFactory("abcd.xml")
 
-
 }
